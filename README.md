@@ -1,4 +1,4 @@
-## Disclaimer: Use of Facebook Group Posts and Comments 
+## Disclaimer: Use of Facebook Public Group Posts and Comments 
 
 We collected data from Facebook to access public group posts and comments for the purpose of _**“Leveraging LLMs to Understand Global Mental Health Well-being & FOMO in Social Media”**_. 
 
