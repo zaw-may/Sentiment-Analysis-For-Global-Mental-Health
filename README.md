@@ -12,3 +12,10 @@ I collected data from Facebook to access public group posts and comments for the
   
 *	Users who have contributed to public group discussions on Facebook retain control over their own content. 
 *	We adhere to ethical guidelines and legal requirements regarding data protection and privacy.
+
+<hr>
+
+## LLM Chatbot Workflow:
+
+![image](https://github.com/zaw-may/Sentiment-Analysis-For-Global-Mental-Health/assets/70247904/be848eca-ff58-4d54-8722-ea7cb81f0068)
+
