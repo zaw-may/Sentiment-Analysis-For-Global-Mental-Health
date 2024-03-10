@@ -15,7 +15,7 @@ I collected data from Facebook to access public group posts and comments for the
 
 <hr>
 
-## LLM Chatbot Workflow:
+## Chatbot Workflow:
 
 ![image](https://github.com/zaw-may/Sentiment-Analysis-For-Global-Mental-Health/assets/70247904/2cf14398-aff8-4dbb-b2f0-ed382db4b972)
 
